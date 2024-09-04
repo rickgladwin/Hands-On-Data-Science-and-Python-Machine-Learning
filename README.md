@@ -25,7 +25,6 @@ df = pd.read_csv(input_file, header = 0)
 ```
 
 
-
 ## Related Products
 * [Getting Started with Oracle Data Integrator 11g: A Hands-On Tutorial](https://www.packtpub.com/networking-and-servers/getting-started-oracle-data-integrator-11g-hands-tutorial?utm_source=github&utm_medium=repository&utm_campaign=9781849680684)
 
